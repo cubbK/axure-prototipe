@@ -1,0 +1,15 @@
+{
+    "articles": [{
+            "title": "Article 1",
+            "img": "https://www.pets4homes.co.uk/images/articles/771/large/cat-lifespan-the-life-expectancy-of-cats-568e40723c336.jpg"
+        },
+        {
+            "title": "Article 2",
+            "img": "https://ichef-1.bbci.co.uk/news/624/cpsprodpb/5D01/production/_95790832_gettyimages-516700094.jpg"
+        },
+        {
+            "title": "Article 3",
+            "img": "https://www.pets4homes.co.uk/images/articles/771/large/cat-lifespan-the-life-expectancy-of-cats-568e40723c336.jpg"
+        }
+    ]
+}
